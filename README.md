@@ -112,9 +112,7 @@ Execute the program using runserver command.
              <td align="center"><font color='purple'>5Q1-1</td>
              <td align="center"><font color='purple'>PYTHON PROGRAMMING  </td>
           </tr> 
-          
-         </table>   
-    </body>
+    </table>    
 </body>
 </html>
 
